@@ -94,3 +94,8 @@ html {
     border-radius: 5rem;
     align-self: flex-start;
   }
+
+  .show-password-label {
+    cursor: pointer; /* Change cursor to pointer to indicate clickable */
+    /* Add more styling as needed */
+}
